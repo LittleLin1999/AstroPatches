@@ -100,9 +100,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ac0c4e180fb5b7ca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
