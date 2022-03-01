@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "ba6bc1f532532b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f039c8c1cc8b3860",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/Cos-Halos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f18e2181ab7cdfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ec649de53b98bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce488d1a10dc5d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f0ea74338ba124d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55a4ed8a688d9dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fab40a0a8d03f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "653a59331ffb72ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/Cos-Halos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed0431dcbf20ec4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Cos-Halos.md"
+              }
+            }
+          },
+          {
+            "id": "6b8f7703c3210df8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f039c8c1cc8b3860",
+  "lastOpenFiles": [
+    "Note/Cos-Halos.md",
+    "Patch/statistics.md",
+    "Patch/OVI emission.md",
+    "Patch/LAE and LBG.md",
+    "Note/Current Infrared data.md"
+  ]
+}
