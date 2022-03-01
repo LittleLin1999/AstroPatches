@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
   "theme": "moonstone",
-  "cssTheme": "Ursa"
+  "cssTheme": "Ursa",
+  "translucency": false
 }

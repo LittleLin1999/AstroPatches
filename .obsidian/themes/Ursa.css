@@ -174,23 +174,37 @@ li > p {
   display: inline-block;
   margin-top: 0;
   margin-bottom: 0;
-}
+} 
+
+ul ul { list-style: none; }
+li > p {
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+} 
+
+ul ul ul { list-style: none; }
+li > p {
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+} 
 
 ul li:not(.task-list-item)::before {
     content: "•";
     color: var(--blockquote-border);
-    display: inline-block;
+    display: inline-block; 
     width: 1em;
-    margin-left: -1em;
+    margin-left: -1em; 
     padding:0;
     font-weight: bold;
-    text-shadow: 0 0 0.5em var(--accent-2);
+    text-shadow: 0 0 0.5em var(--accent-2); 
 }
 ul ul li:not(.task-list-item)::before {
-    content: "•"
+   content: "o"; 
 }
 ul ul ul li:not(.task-list-item)::before {
-    content: "•"
+    content: "*";
 }
 
 /* numbered lists */
