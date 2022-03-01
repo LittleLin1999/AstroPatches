@@ -8,7 +8,4 @@
 **halo missing baryon problem**
 - Baryon counting = star + cold ISM + hot X-ray gas; Galaxies and halos Omega_b/Omega_m ratio << Cosmological ratio;  galaxy halos miss 60% baryons.
 - much of the CGM cannot be traced with X-ray and too diffuse to be detected directly currently.
-
 - 
-
-
