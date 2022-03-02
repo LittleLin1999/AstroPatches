@@ -1,5 +1,5 @@
 # Current infrared data
-#deep/infrared
+#deep
 
 * Spitzer/IRAC
 * CANDELS
