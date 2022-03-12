@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/Cos-Halos.md",
-            "mode": "preview",
+            "file": "Note/Hot CGM.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Oppenheimer",
+                "query": "tag:#kickin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Cos-Halos.md",
+                "file": "Note/Hot CGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Cos-Halos.md"
+                "file": "Note/Hot CGM.md"
               }
             }
           },
@@ -115,14 +114,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "b93a32cb3594e774",
   "lastOpenFiles": [
+    "Note/Hot CGM.md",
     "Note/Cos-Halos.md",
     "Patch/LAE and LBG.md",
-    "Note/Current Infrared data.md",
+    "Patch/statistics.md",
     "Patch/OVI emission.md",
-    "Patch/statistics.md"
+    "Note/Current Infrared data.md"
   ]
 }
