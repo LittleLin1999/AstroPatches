@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b93a32cb3594e774",
+        "id": "fa7a151daee5d74c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Note/Hot CGM.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Hot CGM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Note/Hot CGM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -114,9 +107,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 260
   },
-  "active": "b93a32cb3594e774",
+  "active": "fa7a151daee5d74c",
   "lastOpenFiles": [
     "Note/Hot CGM.md",
     "Note/Cos-Halos.md",
