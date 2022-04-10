@@ -1,2 +1,0 @@
-# Quescient galaxies
-
