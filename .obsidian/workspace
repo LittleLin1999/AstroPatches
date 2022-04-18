@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/Lensing cluster.md",
-            "mode": "source",
+            "file": "Patch/statistics.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Lensing cluster.md",
+                "file": "Patch/statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Lensing cluster.md"
+                "file": "Patch/statistics.md"
               }
             }
           },
@@ -118,13 +118,13 @@
   },
   "active": "fa7a151daee5d74c",
   "lastOpenFiles": [
-    "Note/Lensing cluster.md",
-    "Note/Hot CGM.md",
-    "Note/Cos-Halos.md",
-    "Note/Current Infrared data.md",
-    "Note/Quescient Galaxies.md",
     "Patch/statistics.md",
+    "Note/Cos-Halos.md",
+    "Note/Hot CGM.md",
+    "Patch/LAE and LBG.md",
     "Patch/OVI emission.md",
-    "Patch/LAE and LBG.md"
+    "Note/Lensing cluster.md",
+    "Note/Current Infrared data.md",
+    "Note/Quescient Galaxies.md"
   ]
 }
