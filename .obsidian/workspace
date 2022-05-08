@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "87430a04c607138e",
+        "id": "3c4f4be01f2ac622",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
             "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
-            "staged": false
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md"
+              }
             }
           },
           {
@@ -112,7 +116,7 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "87430a04c607138e",
+  "active": "3c4f4be01f2ac622",
   "lastOpenFiles": [
     "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
     "Patch/LAE and LBG.md",

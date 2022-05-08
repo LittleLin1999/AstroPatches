@@ -21,3 +21,5 @@
 
 ## 1.3 Expected modes of accretion
 The major sources of the accreting material : IGM, satellites, and recycled feedback gas
+
+
