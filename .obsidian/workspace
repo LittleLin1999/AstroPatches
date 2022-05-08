@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/Current Infrared data.md",
-            "mode": "preview",
+            "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Current Infrared data.md",
+                "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Current Infrared data.md"
+                "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md"
               }
             }
           },
@@ -118,11 +118,13 @@
   },
   "active": "fa7a151daee5d74c",
   "lastOpenFiles": [
+    "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
+    "Note/Cos-Halos.md",
+    "GasAcretionOntoGalaxies.md",
     "Note/Current Infrared data.md",
     "Patch/OVI emission.md",
     "Patch/statistics.md",
     "Patch/LAE and LBG.md",
-    "Note/Cos-Halos.md",
     "Note/Lensing cluster.md",
     "Note/Hot CGM.md",
     "Note/Quescient Galaxies.md"

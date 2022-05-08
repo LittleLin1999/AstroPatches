@@ -4,5 +4,6 @@
   "communityPluginSortOrder": "download",
   "showLineNumber": true,
   "readableLineLength": false,
-  "newFileLocation": "folder"
+  "newFileLocation": "folder",
+  "promptDelete": false
 }
