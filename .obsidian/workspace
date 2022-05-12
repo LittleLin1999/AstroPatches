@@ -7,11 +7,9 @@
         "id": "3c4f4be01f2ac622",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
-            "mode": "source",
-            "source": false
+            "file": "Patch/Spotlight.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
+                "file": "Patch/Spotlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md"
+                "file": "Patch/Spotlight.md"
               }
             }
           },
@@ -114,10 +112,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 260,
+    "collapsed": true
   },
   "active": "3c4f4be01f2ac622",
   "lastOpenFiles": [
+    "Patch/Spotlight.md",
     "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
     "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
     "Patch/LAE and LBG.md",
@@ -126,7 +126,6 @@
     "Note/Current Infrared data.md",
     "Patch/OVI emission.md",
     "Patch/statistics.md",
-    "Note/Lensing cluster.md",
-    "Note/Hot CGM.md"
+    "Note/Lensing cluster.md"
   ]
 }
