@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JWST/JWST_Deep_Field.md",
+            "file": "Idea/Extended emission.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CGM",
+                "query": "tag:#kickin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278,
-    "collapsed": true
+    "width": 278
   },
   "right": {
     "id": "55a4ed8a688d9dc3",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWST/JWST_Deep_Field.md",
+                "file": "Idea/Extended emission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWST/JWST_Deep_Field.md"
+                "file": "Idea/Extended emission.md"
               }
             }
           },
@@ -111,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -119,15 +118,15 @@
   },
   "active": "20907f0651a82f4d",
   "lastOpenFiles": [
+    "Idea/Extended emission.md",
+    "Idea/LAE and LBG.md",
+    "Idea/statistics.md",
     "JWST/JWST_Deep_Field.md",
     "JWST/JWST_Deep_Field.pdf",
     "JWST/JWST_Deep_Field.assets/image-20220513215625.png",
     "JWST_Deep_Field.assets.md",
     "Pasted image 20220513214743.png.md",
     "Pasted image 20220513214743.png",
-    "JWST deep field collection.md",
-    "Pasted image 20220513212148.png",
-    "JWST Deep Field.md",
-    "Pasted image 20220513211759.png"
+    "JWST deep field collection.md"
   ]
 }

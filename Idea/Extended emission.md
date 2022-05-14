@@ -1,4 +1,4 @@
-# OVI emission
+# OVI emission：JWST/MUSE
 #kickin 
 
 * WHIM: 1e5-1e6 K
@@ -15,3 +15,14 @@ Starburst galaxy/ quasar outflow/ stacking of star-forming galaxy
 Relation between OVI/CIV…  emission and Lyman alpha REW or luminosity or halo fraction…
 
 3. Missing metallicity problem at high-z
+
+# O\[III\]$\lambda\lambda5007$ emission: JWST
+- ionized gas
+- star-forming galaxies / nearby AGN / line region
+- CGM?  star formation？
+
+extended OIII emission could be detected using JWST
+
+# extended Lya nebulae: Merian/MUSE
+- blind searching for extended lya nebulae
+- expected around faint continnuum + high-redshift sources
