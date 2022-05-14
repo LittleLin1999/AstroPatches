@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Idea/Extended emission.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -119,6 +119,7 @@
   "active": "20907f0651a82f4d",
   "lastOpenFiles": [
     "Idea/Extended emission.md",
+    "Note/Cos-Halos.md",
     "Idea/LAE and LBG.md",
     "Idea/statistics.md",
     "JWST/JWST_Deep_Field.md",
@@ -126,7 +127,6 @@
     "JWST/JWST_Deep_Field.assets/image-20220513215625.png",
     "JWST_Deep_Field.assets.md",
     "Pasted image 20220513214743.png.md",
-    "Pasted image 20220513214743.png",
-    "JWST deep field collection.md"
+    "Pasted image 20220513214743.png"
   ]
 }

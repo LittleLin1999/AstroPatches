@@ -20,6 +20,7 @@ Relation between OVI/CIV…  emission and Lyman alpha REW or luminosity or halo 
 - ionized gas
 - star-forming galaxies / nearby AGN / line region
 - CGM?  star formation？
+- **Hanny's Voorwerp**: OIII emitting gas without galaxies outside an ellipitical galaxies, which is quenched long before; the first assumption is that the gas is luminated by the AGN when it's active, and then continuuously emitting OIII even after the galaxies is quenched.
 
 extended OIII emission could be detected using JWST
 
