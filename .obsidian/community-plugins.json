@@ -1,5 +1,7 @@
 [
   "obsidian-outliner",
   "obsidian-git",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-advanced-slides",
+  "obsidian-pandoc"
 ]
