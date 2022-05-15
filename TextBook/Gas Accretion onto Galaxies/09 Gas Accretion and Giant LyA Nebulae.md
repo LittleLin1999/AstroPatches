@@ -21,7 +21,7 @@
 HzRG: High-z Radio Galaxies; often show extended radio lobes that have been associated with bi-polar jets;
 
 ubiquitous detection of extended Lya emission around HzRG extending in several cases above 100 kpc in size
-- apparent alignment between Ly˛ emission and the radio jet axis
+- apparent alignment between Lya emission and the radio jet axis
 - broad kinematics
 - associated extended C IV and He II emission
 -  invariable association with large overdensity as traced by companion Lya galaxies
