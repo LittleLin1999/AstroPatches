@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JWST/JWST_Deep_Field.md",
-            "mode": "preview",
+            "file": "TextBook/AnnuRev_Madau2014_SFH.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278,
-    "collapsed": true
+    "width": 278
   },
   "right": {
     "id": "55a4ed8a688d9dc3",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWST/JWST_Deep_Field.md",
+                "file": "TextBook/AnnuRev_Madau2014_SFH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWST/JWST_Deep_Field.md"
+                "file": "TextBook/AnnuRev_Madau2014_SFH.md"
               }
             }
           },
@@ -119,15 +118,15 @@
   },
   "active": "20907f0651a82f4d",
   "lastOpenFiles": [
+    "TextBook/AnnuRev_Madau2014_SFH.md",
+    "Note/Cos-Halos.md",
+    "Note/Current Infrared data.md",
     "JWST/JWST_Deep_Field.md",
     "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
     "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
     "Idea/Extended emission.md",
-    "Note/Cos-Halos.md",
     "Idea/LAE and LBG.md",
     "Idea/statistics.md",
-    "JWST/JWST_Deep_Field.pdf",
-    "JWST/JWST_Deep_Field.assets/image-20220513215625.png",
-    "JWST_Deep_Field.assets.md"
+    "JWST/JWST_Deep_Field.pdf"
   ]
 }
