@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
+            "file": "JWST/JWST_Deep_Field.md",
             "mode": "preview",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 278,
+    "collapsed": true
   },
   "right": {
     "id": "55a4ed8a688d9dc3",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
+                "file": "JWST/JWST_Deep_Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md"
+                "file": "JWST/JWST_Deep_Field.md"
               }
             }
           },
@@ -118,13 +119,13 @@
   },
   "active": "20907f0651a82f4d",
   "lastOpenFiles": [
+    "JWST/JWST_Deep_Field.md",
     "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
     "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
     "Idea/Extended emission.md",
     "Note/Cos-Halos.md",
     "Idea/LAE and LBG.md",
     "Idea/statistics.md",
-    "JWST/JWST_Deep_Field.md",
     "JWST/JWST_Deep_Field.pdf",
     "JWST/JWST_Deep_Field.assets/image-20220513215625.png",
     "JWST_Deep_Field.assets.md"
