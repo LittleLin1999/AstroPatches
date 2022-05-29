@@ -10,7 +10,7 @@ Piero Madau and Mark Dickinson
 		- 1500AA
 			- Massive stars have short lifetimes, so the UV emission fades quickly.
 			- For a galaxy forming stars at a constant rate, the 1,500-A luminosity stabilizes once O stars start to evolve off the main sequence.
-			- For solar metallicity, by an age of 10 7.5years, the 1,500-A luminosity has reached 75% of its asymptotic value. The UV spectral slope reddens moderately with time, as the 1,500-A luminosity reaches a steady-state level
+			- For solar metallicity, by an age of $10^{7.5}$ years, the 1,500-A luminosity has reached 75% of its asymptotic value. The UV spectral slope reddens moderately with time, as the 1,500-A luminosity reaches a steady-state level
 		- Mid-UV: 2300A / 2800A
 			- from longer-lived, lower-mass stars, particularly at later ages, and the time evolution of the luminosity is more gradual.
 			- longer-lived (B and A) stars continue to build up and contribute to the 2,800-A luminosity with time. 
@@ -27,3 +27,8 @@ Piero Madau and Mark Dickinson
 			- AGN: AGN can also produce strong UV emission, often in dusty environments, and may contribute to IR emission by heating dust in the torus and clouds
 			- Older stellar populations can also heat dust that is present in the ISM of a galaxy, contributing to the FIR emission
 		- Total L_IR: an SED template of local galaxies to extrapolate from a single observed ﬂux density at some MIR or FIR wavelength, not necessarily close to the dust emission peak.
+
+
+$$
+{{\rm SFR_{tot}}= K_{\rm FUV} L_{\rm FUV} + K_{\rm IR}L_{\rm IR}}
+$$
