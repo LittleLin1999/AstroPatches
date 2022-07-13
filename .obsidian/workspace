@@ -7,8 +7,12 @@
         "id": "20907f0651a82f4d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md"
+              }
             }
           },
           {
@@ -112,13 +119,13 @@
   },
   "active": "20907f0651a82f4d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
+    "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
+    "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
     "Note/Cos-Halos.md",
     "TextBook/AnnuRev_Madau2014_SFH.md",
     "Note/Current Infrared data.md",
     "JWST/JWST_Deep_Field.md",
-    "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
-    "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
     "Idea/Extended emission.md",
     "Idea/LAE and LBG.md",
     "Idea/statistics.md"
