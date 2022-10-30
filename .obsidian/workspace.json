@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "20907f0651a82f4d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Note/Current Infrared data.md",
-            "mode": "source",
-            "source": false
+        "id": "8dbf140f51c2c471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20907f0651a82f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Metallicity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -53,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5036315917969
+    "width": 200
   },
   "right": {
     "id": "55a4ed8a688d9dc3",
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Current Infrared data.md",
+                "file": "Note/Metallicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Current Infrared data.md"
+                "file": "Note/Metallicity.md"
               }
             }
           },
@@ -116,15 +124,18 @@
     "direction": "horizontal",
     "width": 235.318603515625
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "20907f0651a82f4d",
   "lastOpenFiles": [
+    "Note/Current Infrared data.md",
     "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
     "Note/Metallicity.md",
     "TextBook/AnnuRev_Madau2014_SFH.md",
     "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
     "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
     "Note/Cos-Halos.md",
-    "Note/Current Infrared data.md",
     "JWST/JWST_Deep_Field.md",
     "Idea/Extended emission.md",
     "Idea/LAE and LBG.md"

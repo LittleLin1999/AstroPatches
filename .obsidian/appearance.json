@@ -2,5 +2,6 @@
   "baseFontSize": 131,
   "theme": "moonstone",
   "cssTheme": "Ursa",
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }
