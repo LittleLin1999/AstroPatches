@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Dust.md",
+                "file": "Note/Metallicity.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Dust.md",
+                "file": "Note/Metallicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Dust.md"
+                "file": "Note/Metallicity.md"
               }
             }
           },
@@ -142,6 +142,8 @@
   },
   "active": "407b3e7ab2b29344",
   "lastOpenFiles": [
+    "Alpha elements.md",
+    "Note/Dust.md",
     "Note/Metallicity.md",
     "Note/High-ionization Emission Lines.md",
     "TextBook/AnnuRev_Madau2014_SFH.md",
@@ -149,8 +151,6 @@
     "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
     "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
     "Note/Current Infrared data.md",
-    "Note/Cos-Halos.md",
-    "JWST/JWST_Deep_Field.md",
-    "Idea/Extended emission.md"
+    "Note/Cos-Halos.md"
   ]
 }
