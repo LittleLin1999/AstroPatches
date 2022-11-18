@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20907f0651a82f4d",
+            "id": "77cd21bd35c77d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "407b3e7ab2b29344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Dust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Metallicity.md",
+                "file": "Note/Dust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Metallicity.md"
+                "file": "Note/Dust.md"
               }
             }
           },
@@ -122,22 +135,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.318603515625
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "20907f0651a82f4d",
+  "active": "407b3e7ab2b29344",
   "lastOpenFiles": [
-    "Note/Current Infrared data.md",
-    "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
     "Note/Metallicity.md",
+    "Note/High-ionization Emission Lines.md",
     "TextBook/AnnuRev_Madau2014_SFH.md",
     "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
+    "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
     "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
+    "Note/Current Infrared data.md",
     "Note/Cos-Halos.md",
     "JWST/JWST_Deep_Field.md",
-    "Idea/Extended emission.md",
-    "Idea/LAE and LBG.md"
+    "Idea/Extended emission.md"
   ]
 }
