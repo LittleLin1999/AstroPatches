@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8dbf140f51c2c471",
+        "id": "b6038e1606b523aa",
         "type": "tabs",
         "children": [
           {
-            "id": "77cd21bd35c77d16",
+            "id": "3b7e2f3dd3b3c2df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Metallicity.md",
+                "file": "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "407b3e7ab2b29344",
+            "id": "3e45c7ace512609c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Metallicity.md",
+                "file": "TextBook/Galaxy Formation and Evolution- 12 Galaxy Interactions and Transformations.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Metallicity.md",
+                "file": "TextBook/Galaxy Formation and Evolution- 12 Galaxy Interactions and Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Metallicity.md"
+                "file": "TextBook/Galaxy Formation and Evolution- 12 Galaxy Interactions and Transformations.md"
               }
             }
           },
@@ -135,22 +135,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 402.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
   },
-  "active": "407b3e7ab2b29344",
+  "active": "3e45c7ace512609c",
   "lastOpenFiles": [
-    "Alpha elements.md",
-    "Note/Dust.md",
-    "Note/Metallicity.md",
-    "Note/High-ionization Emission Lines.md",
-    "TextBook/AnnuRev_Madau2014_SFH.md",
-    "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
-    "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
+    "TextBook/Fig12.1.png",
+    "TextBook/Galaxy Formation and Evolution- 12 Galaxy Interactions and Transformations.md",
     "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
-    "Note/Current Infrared data.md",
+    "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
+    "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
+    "Idea/Extended emission.md",
+    "Note/Metallicity.md",
+    "Note/EMPRESS -- Extremely Metal Poor Galaxies (EMPGs).md",
+    "Idea/LAE and LBG.md",
+    "Idea/statistics.md",
+    "Note/Dust.md",
+    "Note/Quenching.md",
+    "Pasted image 20221215133608.png",
     "Note/Cos-Halos.md"
   ]
 }
