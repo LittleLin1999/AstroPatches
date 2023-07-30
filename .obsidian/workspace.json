@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Note/Metallicity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73db8bba296f9a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "TextBook/Galaxy Formation and Evolution- 12 Galaxy Interactions and Transformations.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8a5538a109eebd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TextBook/Pathways 2020.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "55a4ed8a688d9dc3",
@@ -98,8 +123,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TextBook/Galaxy Formation and Evolution- 12 Galaxy Interactions and Transformations.md",
-                "collapseAll": false,
+                "file": "TextBook/Pathways 2020.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TextBook/Galaxy Formation and Evolution- 12 Galaxy Interactions and Transformations.md"
+                "file": "TextBook/Pathways 2020.md"
               }
             }
           },
@@ -155,21 +180,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3e45c7ace512609c",
+  "active": "85730343cd31993d",
   "lastOpenFiles": [
-    "TextBook/Fig12.1.png",
     "TextBook/Galaxy Formation and Evolution- 12 Galaxy Interactions and Transformations.md",
-    "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
-    "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
-    "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
-    "Idea/Extended emission.md",
+    "TextBook/Pathways 2020.md",
+    "Note/Cos-Halos.md",
+    "Note/LyC and Reionization.md",
+    "Note/High-ionization Emission Lines.md",
     "Note/Metallicity.md",
+    "Note/Quenching.md",
+    "Note/Dust.md",
+    "TextBook/Gas Accretion onto Galaxies/09 Gas Accretion and Giant LyA Nebulae.md",
+    "TextBook/Gas Accretion onto Galaxies/04 Gas Accretion and Star Formation Rates.md",
+    "TextBook/Fig12.1.png",
+    "TextBook/Gas Accretion onto Galaxies/01 Introduction.md",
+    "Idea/Extended emission.md",
     "Note/EMPRESS -- Extremely Metal Poor Galaxies (EMPGs).md",
     "Idea/LAE and LBG.md",
     "Idea/statistics.md",
-    "Note/Dust.md",
-    "Note/Quenching.md",
-    "Pasted image 20221215133608.png",
-    "Note/Cos-Halos.md"
+    "Pasted image 20221215133608.png"
   ]
 }
