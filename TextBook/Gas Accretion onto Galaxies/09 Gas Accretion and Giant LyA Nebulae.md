@@ -77,7 +77,7 @@ originate from the ISM of embedded galaxies or from the broad line region of the
 	- only efﬁcient to produce Lya photons in a **partially ionized** medium only for **electron temperatures around 2–5 $\times 10^4$K .**
 - Heating
 	- cooling will quickly reduce the electron temperature effectively suppressing further Lya emission
-	- if heating brings electron temperatures close to 1E5K, Lyacollisional excitation would be suppressed again;
+	- if heating brings electron temperatures close to 1E5K, Lya collisional excitation would be suppressed again;
 	- when lacking ionization source: heating by the gravitational potential energy due to cosmological accretion of gas into massive dark matter halos?
 		- order of magnitude estimate for the potential energy is interestingly close to the observed Lya emission.
 		- BUT: a signiﬁcant fraction of this potential energy should result in the formation of a hot gaseous halo with temperatures of the order of T ~ $10^7$ K as a result of the virial shocks
